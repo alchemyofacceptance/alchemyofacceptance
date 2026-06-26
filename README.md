@@ -16,8 +16,8 @@ At its core, INTEVIA is designed to:
 
 ## INTEVIA — Further Reading
 Two short pieces that outline the thinking behind INTEVIA’s foundations:
-- **Constitutional Automation** — https://x.com/alchemyaccepts/status/1805560829835010208
-- **Meta‑practice & Human–AI Collaboration** — https://x.com/alchemyaccepts/status/1805560831423842608
+- **Constitutional Automation** — https://x.com/OpenIntevia/status/2069999972896878622
+- **Meta‑practice & Human–AI Collaboration** — https://x.com/OpenIntevia/status/2066895584032661573
 
 ## Two Primary Efforts
 ### Constitutional Automation
