@@ -1,16 +1,50 @@
-## Hi there 👋
+# Founder of INTEVIA
 
-<!--
-**alchemyofacceptance/alchemyofacceptance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building a living organisational platform shaped by constitutional automation, human–AI collaboration, and governed software development. Working at the intersection of systems architecture, governance, and human–AI operational design.
 
-Here are some ideas to get you started:
+## About Me
+I’m the founder of **INTEVIA**, an open‑source organisational platform designed to bring clarity, structure, and governed acceleration to human–AI collaboration. My work focuses on building systems that help small teams operate with enterprise‑grade precision without enterprise‑grade overhead.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I’m Building — INTEVIA
+INTEVIA is a **living organisational platform** built on a Human–AI Triad (HAT) operating model. It combines constitutional automation, organismal architecture, and disciplined meta‑practice to create a new way for people and AI to work together.
+
+At its core, INTEVIA is designed to:
+- give organisations a **governed operational spine**
+- automate constitutional rules and decision pathways
+- support adaptive, high‑integrity human–AI workflows
+- provide clarity, traceability, and repeatable outcomes
+
+## INTEVIA — Further Reading
+Two short pieces that outline the thinking behind INTEVIA’s foundations:
+- **Constitutional Automation** — https://x.com/alchemyaccepts/status/1805560829835010208
+- **Meta‑practice & Human–AI Collaboration** — https://x.com/alchemyaccepts/status/1805560831423842608
+
+## Two Primary Efforts
+### Constitutional Automation
+Codifying the foundational rules, rights, and operational constraints of an organisation into a living, executable system. This ensures consistency, fairness, and structural integrity as the organisation evolves.
+
+### Meta‑practice
+Developing the methods, disciplines, and evidence loops that guide how humans and AI collaborate. Meta‑practice ensures that acceleration is governed, measurable, and aligned with organisational purpose.
+
+## Product Roadmap (High‑Level Vision)
+- **V1 — Governed Acceleration**  
+  Establish the constitutional automation layer, the HAT operating model, and the core organismal architecture.
+
+- **V2 — Integrated Collaboration Layer**  
+  Move from human‑mediated workflows to system‑level orchestration, enabling seamless collaboration across tools, agents, and organisational surfaces.
+
+- **V3 — Multi‑AI Consortium Framework**  
+  Extend INTEVIA into a governance framework that supports cross‑model collaboration and developmental intelligence across multiple AI systems.
+
+## Current Focus
+- Preparing **INTEVIA v1.0** for founder‑to‑founder preview (August 2026)
+- Consolidating the governance corpus and architectural spine
+- Advancing constitutional automation as a practical organisational discipline
+- Refining the HAT operating model and meta‑practice surfaces
+
+## Links
+- **INTEVIA (Org):** https://github.com/openintevia
+- **Personal GitHub:** https://github.com/alchemyofacceptance
+
+---
+*The banner stands; the voice waits. When the engines lift, the name will follow.*
