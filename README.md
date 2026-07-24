@@ -1,4 +1,4 @@
-# Carmien Owen
+# Carmian Owen
 
 Founder & Steward of **INTEVIA** — building governed Human–AI collaboration systems for meaning, evidence, sovereignty, and accountable automation.
 
