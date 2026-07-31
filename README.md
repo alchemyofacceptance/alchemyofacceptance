@@ -1,6 +1,6 @@
 # Carmian Owen
 
-Founder & Steward of **INTEVIA** — building governed Human–AI collaboration systems for meaning, evidence, sovereignty, and accountable automation.
+Founder and Steward of **INTEVIA** — building governed Human–AI collaboration systems for meaning, evidence, sovereignty, and accountable automation.
 
 I work at the governance layer of Human–AI collaboration: not only what AI can do, but who governs the work being done with it.
 
@@ -8,7 +8,9 @@ I work at the governance layer of Human–AI collaboration: not only what AI can
 
 ## About Me
 
-I’m the Founder & Steward of **INTEVIA**, an open-source constitutional automation project focused on Human–AI governance, organisational clarity, and evidence-backed collaboration.
+I’m the Founder and Steward of **INTEVIA**, an open-source constitutional automation project focused on Human–AI governance, organisational clarity, and evidence-backed collaboration.
+
+**Steward** is my enduring role: holding the purpose, coherence, constitutional direction, and long-term care of the work. During development, I also hold the active **Human Governor** role, retaining final authority over meaning, decisions, acceptance, and direction.
 
 My work sits at the intersection of systems architecture, governance design, operational discipline, and Human–AI collaboration.
 
@@ -28,37 +30,34 @@ Under the hood, INTEVIA explores a deeper architecture:
 
 Think of it as **Git for Human–AI governance**.
 
-Not because INTEVIA is source control.
-This is an analogy, not a technical equivalence or product-maturity claim.
+Not because INTEVIA is source control. This is an analogy, not a technical equivalence or product-maturity claim.
 
 The mental model helps:
 
-* every governed action should have lineage;
-* every meaningful change should be inspectable;
-* every correction should preserve what came before;
-* every authority movement should be visible;
-* every public claim should remain tied to evidence;
-* every Human should remain sovereign over their own meaning.
+- every governed action should have lineage;
+- every meaningful change should be inspectable;
+- every correction should preserve what came before;
+- every authority movement should be visible;
+- every public claim should remain tied to evidence;
+- every Human should remain sovereign over their own meaning.
 
 ---
 
 ## Constitutional Floor
 
-INTEVIA is not being built as trust theatre.
-
-Its first public layer is constitutional.
+INTEVIA is not being built as trust theatre. Its first public layer is constitutional.
 
 The current public-surface constitutional artefacts are:
 
-* [Free Will Charter](https://github.com/alchemyofacceptance/INTEVIA/blob/main/docs/constitution/FREE_WILL_CHARTER.md)
-* [CARE Constitutional Charter](https://github.com/alchemyofacceptance/INTEVIA/blob/main/docs/constitution/CARE_CONSTITUTIONAL_CHARTER.md)
-* [v1.0 Public Contract](https://github.com/alchemyofacceptance/INTEVIA/blob/main/docs/constitution/V1_0_PUBLIC_CONTRACT.md)
+- [Free Will Charter](https://github.com/alchemyofacceptance/INTEVIA/blob/main/docs/constitution/FREE_WILL_CHARTER.md)
+- [CARE Constitutional Charter](https://github.com/alchemyofacceptance/INTEVIA/blob/main/docs/constitution/CARE_CONSTITUTIONAL_CHARTER.md)
+- [v1.0 Public Contract](https://github.com/alchemyofacceptance/INTEVIA/blob/main/docs/constitution/V1_0_PUBLIC_CONTRACT.md)
 
 These artefacts establish the floor:
 
-> Meaning remains Human.
-> Free will remains supreme.
-> CARE reflects observable behaviour; it does not shape belief.
+> Meaning remains Human.  
+> Free will remains supreme.  
+> CARE reflects observable behaviour; it does not shape belief.  
 > INTEVIA remains governed, not appetitive.
 
 ---
@@ -67,12 +66,12 @@ These artefacts establish the floor:
 
 The Founder Narrative Spine sets out the public Founder → World surface for INTEVIA:
 
-* [Founder Narrative Spine v1.10](https://github.com/alchemyofacceptance/INTEVIA/blob/main/docs/public/FOUNDER_NARRATIVE_SPINE_V1_10.md)
+- [Founder Narrative Spine v1.10](https://github.com/alchemyofacceptance/INTEVIA/blob/main/docs/public/FOUNDER_NARRATIVE_SPINE_V1_10.md)
 
 It explains the core distinction:
 
-> The world is asking what AI can do.
-> Constitutional AI asks how a model should be constitutionally shaped.
+> The world is asking what AI can do.  
+> Constitutional AI asks how a model should be constitutionally shaped.  
 > INTEVIA asks who governs the Human–AI work field.
 
 ---
@@ -81,29 +80,32 @@ It explains the core distinction:
 
 Current work is focused on:
 
-* preparing INTEVIA v1.0 for founder-to-founder preview;
-* consolidating the constitutional and governance corpus;
-* developing HPCC — Human–AI Triad Practitioner Certification Curriculum;
-* refining the Human–AI Triad operating model;
-* making proof-layer examples inspectable;
-* building public narrative surfaces that remain evidence-bounded.
+- developing INTEVIA v1.0 through bounded, governed implementation slices;
+- maintaining the constitutional, governance, and evidence corpus alongside the runtime;
+- developing HPCC — Human–AI Triad Practitioner Certification Curriculum;
+- refining the Human–AI Triad operating model;
+- making implementation and assurance evidence inspectable;
+- reconciling public documentation with the repository’s evolving technical surface;
+- preparing evidence-bounded pathways for future cohorts, reviewers, collaborators, and funders.
+
+INTEVIA has moved beyond architectural formation into substantive governed implementation. That progress does not by itself establish production readiness, external validation, or completion; technical claims remain bounded by inspectable repository evidence and explicit Human decisions.
 
 ---
 
 ## Core Principle
 
-> The Human remains the governor.
+> The Human remains the governor.  
 > AI may assist, accelerate, reflect, and execute — but it must not replace Human meaning, authority, or free will.
 
 ---
 
 ## Links
 
-* **INTEVIA repository:** https://github.com/alchemyofacceptance/INTEVIA
-* **INTEVIA organisation:** https://github.com/openintevia
-* **Founder Narrative Spine v1.10:** https://github.com/alchemyofacceptance/INTEVIA/blob/main/docs/public/FOUNDER_NARRATIVE_SPINE_V1_10.md
-* **Open INTEVIA on X:** https://x.com/OpenIntevia
+- **INTEVIA repository:** https://github.com/alchemyofacceptance/INTEVIA
+- **INTEVIA organisation:** https://github.com/openintevia
+- **Founder Narrative Spine v1.10:** https://github.com/alchemyofacceptance/INTEVIA/blob/main/docs/public/FOUNDER_NARRATIVE_SPINE_V1_10.md
+- **Open INTEVIA on X:** https://x.com/OpenIntevia
 
 ---
 
-*The banner stands; the voice waits. When the engines lift, the name will follow.*
+*Let the work speak for itself.*
